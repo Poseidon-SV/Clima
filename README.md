@@ -1,16 +1,7 @@
 # Clima
 
-A new Flutter project.
+It's a weather app to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
 
-## Getting Started
+![Screenshot (1204)](https://user-images.githubusercontent.com/87477923/180455796-efd4f097-18ff-4c5e-bd7e-313cb1d5ca08.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (1218)](https://user-images.githubusercontent.com/87477923/180455812-99556d4a-65d2-4ff7-892b-9d24873dd3fe.png)
